@@ -1,2 +1,2 @@
 # Memoria-Projecte-Enginyeria-del-Software
-Repositori per podercompartir amb el professor la memòria del projecte final.
+Repositori per podervcompartir amb el professor la memòria del projecte final.
