@@ -12,3 +12,13 @@ Demanar cita per videoconferència de donada d’alta amb personal mèdic.
 
 Consultar dades mèdiques de l’usuari.
 	Actor: Usuari sènior, familiar, personal mèdic.
+	
+Donar consentiment a l’aplicació pel seguiment de dades.
+	Actor: Usuari sènior, familiar.
+
+Enviar missatge.
+	Actor: Usuari sènior, Voluntari, Familiar.
+
+Trucar (d’audio o videotrucada)
+	Actor: Usuari sènior, Voluntari, Familiar.
+
