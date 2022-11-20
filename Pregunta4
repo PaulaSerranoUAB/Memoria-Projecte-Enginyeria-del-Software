@@ -1,0 +1,14 @@
+4. Fes una llista de casos d’ús a nivell d’usuari, per exemple la persona gran, (mínim 10). Per cada cas d’ús indica un nom de cas d'ús i quin actor l’inicia. Fixa't que el nom del cas d'ús sigui adequat segons les indicacions donades a classe. No cal fer l'especificació ni detallada ni general dels casos d'ús, només
+indicar-ne el nom i l'actor iniciador.
+
+Crear perfil d’usuari sènior.
+	Actor: Usuari sènior, familiar.
+
+Ompir/editar perfil mèdic. 
+Actor: Usuari sènior, familiar, personal mèdic.
+
+Demanar cita per videoconferència de donada d’alta amb personal mèdic.
+	Actor: Usuari sènior, familiar.
+
+Consultar dades mèdiques de l’usuari.
+	Actor: Usuari sènior, familiar, personal mèdic.
