@@ -21,4 +21,14 @@ Enviar missatge.
 
 Trucar (d’audio o videotrucada)
 	Actor: Usuari sènior, Voluntari, Familiar.
+	
+Explorar grups d’interés.
+	Actor: Usuari sènior.
+
+Veure i gestionar funcionalitats. 
+	Actor: Usuari sènior.
+
+Consultar estadísticas de l’ús de l’aplicació.
+	Actor: Analistes de l’empresa.
+
 
