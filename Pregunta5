@@ -1,0 +1,37 @@
+CAS D’ÚS:  Omplir perfil mèdic
+Actor principal: Usuari sènior
+Actors de suport: Familiar, personal mèdic
+Escenari principal d’èxit: L’usuari sènior introdueix les seves dades i el personal mèdic valida les dades d’aquest. A continuació, el metge configura el monitoratge de les constants vitals amb èxit.
+Escenaris alternatiu: 
+- Falten dades mèdiques de l’usuari sènior i cal que demani cita al metge.
+- No hi ha bona comunicació i la videoconferència no resulta pràctica
+
+
+CAS D’ÚS:Alerta generada per constants vitals
+Actor principal: Usuari sènior
+Actors de suport: Serveis derivats i servei d’atenció
+Escenari principal d’èxit:
+- Hi ha una bona comunicació entre tots els actors implicats i el motiu de l’alerta es soluciona a temps i amb èxit.
+- L’usuari sènior té una comunicació efectiva amb el servei d’atenció, el qual deriva la situació al servei corresponent
+Escenaris alternatiu: 
+- Hi ha mala comunicació entre qualsevol dels actors
+- El servei d’ atenció no sap on derivar la situació o ho fa de forma incorrecta.
+- Els serveis derivats no arriben a temps
+
+
+CAS D’ÚS: Consultar dades mèdiques de l’usuari
+Actor principal: Usuari sènior
+Actors de suport: Familiar, personal mèdic
+Escenari principal d’èxit:
+- Les dades són accessibles i fàcils d’entendre.
+- No hi ha redundància.
+- Les dades són rellevants.
+Escenaris alternatiu: 
+- Les dades són incorrectes
+- Les dades no s’interpreten correctament
+- Hi ha redundància
+
+
+
+
+
