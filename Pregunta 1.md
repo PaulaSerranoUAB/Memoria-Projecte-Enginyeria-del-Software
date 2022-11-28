@@ -18,7 +18,7 @@ Complir amb el Reglament General de Protecció de Dades de nivell alt
 S’haurà d’obeir el reglament que dicta que cap dada personals ni mèdica es podrà cedir sense consentiment, ja que es tracten de dades confidencials.Tipus
 Requisit no Funcional. Restricció de disseny. Seguretat
 *Stakeholders*
-Alejandra Popa🤔
+Alejandra Popa
 Interesa al cliente porque es el que confia sus datos. 
 Interesa a la empresa ya que no interesa violar la legislación.
 
