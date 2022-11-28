@@ -47,6 +47,7 @@ Es vol crear una aplicació compatible amb PC, tablet i mòbil i els diferents s
 Requisit no funcional. Restricció de Disseny, limitacions hardware.
 
 *Stakeholders*
+
 Alejandra Popa, enginyera informàtica.
 Client, interessat en una bona accessibilitat.
 
