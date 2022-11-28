@@ -1,5 +1,5 @@
 Pregunta 1 
-Identifica tres requisits no funcionals candidats del sistema. Per cada requisit indica: una frase per identificarlo, una o dues frases que el descriguin, el tipus de requisit segons els tipus presentats a classe i els stakeholders interessats.
+Identifica tres requisits no funcionals candidats del sistema. Per cada requisit indica: una frase per identificar-lo, una o dues frases que el descriguin, el tipus de requisit segons els tipus presentats a classe i els stakeholders interessats.
 Pots utilitzar la següent plantilla per descriure els requisits:
 
 
