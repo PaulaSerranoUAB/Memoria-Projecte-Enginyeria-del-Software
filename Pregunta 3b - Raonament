@@ -1,0 +1,28 @@
+El primer pas per al registre mèdic consistirà en un petit formulari que podrà omplir l' usuari o els seus familiars. A continuació introduirà les dades sobre la seva medicació actual.
+
+El següent pas serà triar una data per realitzar una videoconferència amb la finalitat de revisar les dades introduïdes pel personal mèdic. L'usuari triarà una de les dates disponibles.
+
+Durant la videoconferència el personal mèdic revisarà i validarà les dades introduïdes en el formulari i la informació sobre la medicació. Si considera que té prou informació,
+configurarà els paràmetres a monitoritzar amb els "wearables" i la les persones a les quals s'ha d'avisar , d'aquesta manera si algun d'aquests paràmetres no és l'esperat, es llançarà
+una alarma que rebrà el personal mèdic, els familiars propers i, si aquesta es considera crítica, s'enviarà directament als serveis d'emergència.
+
+Si el personal mèdic considera que no té prou informació en el formulari, realitzarà tantes preguntes com cregui necessari i introduirà les dades en el sistema.
+
+Si el personal mèdic considera que s' ha de canviar alguna dada de la posologia, el canviarà en l ' aplicació directament i validarà les alertes de medicació.
+
+Finalment, el personal mèdic revisarà un resum de tot el perfil mèdic i el validarà. Si considera que es requereix més informació o proves, li demanarà a l'usuari que concerti una cita.
+Amb això es tindria un perfil mèdic bàsic per poder fer un seguiment remot de la salut dels usuaris.
+
+
+
+
+**** Raonament ****
+
+“Carla Quarban” ha explicat de manera general el funcionament de l'aplicació, espera que els usuaris abans de poder utilitzar aquesta, 
+estiguin registrats i donats d'alta en el sistema. La seva idea en general és que els usuaris iniciïn el procés de registre i un 
+metge s'encarregui de validar les dades per a crear el perfil de l'usuari. Carla Q. ha descrit una sèrie de passos que els usuaris i metges han de seguir per a donar d'alta un perfil.
+
+En llegir detingudament aquests passos, ens hem adonat que aquests tenen un comportament seqüencial, ja que el “següent” pas depèn d'un pas “anterior” i així successivament. Basant-nos en els requeriments de Carla Q. 
+Hem definit un Cas d'Ús per a veure les accions que s'han de realitzar, en aquest intervenen dos actors: l'usuari i el metge, per a visualitzar-lo hem utilitzat el diagrama d'activitats, 
+en aquest es poden veure les accions que han de fer tant l'usuari com el metge, el flux d'aquestes i les dependències, és a dir, tot el procés que s'ha de seguir, el qual comença amb l'usuari emplenant un petit formulari,
+i és el metge que després de validar tota informació acaba el procés en crear el perfil de l'usuari, de tal forma que l'usuari ja pot començar a utilitzar l'app.
