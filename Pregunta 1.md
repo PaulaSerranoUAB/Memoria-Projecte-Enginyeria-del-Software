@@ -4,12 +4,19 @@ Pots utilitzar la següent plantilla per descriure els requisits:
 
 
 *Requisit*
+
 La plataforma treballi des de la perspectiva social, familiar i mèdica.
+
 *Descripció*
+
 Existeix la necessitat que la plataforma que engloba tot l’àmbit relacionat amb la cura remota de gent gran sigui social, familiar i des de un punt de vista mèdic. Per tal de facilitar la comunicació entre la gent gran i els seus ésser més propers.
+
 *Tipus*
+
 Requisit no funcional. Objectius de disseny
+
 *Stakeholders*
+
 Carla Qurban (emprenedora i executiva i directora Executiva). Interesa al client per facilitar la comunicació.
 
 *Requisit*
